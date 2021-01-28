@@ -4,3 +4,21 @@
 > Este projeto foi desenvolvido durante o curso Front-End Design Essencial do Brunão Souza
 
 *O projeto aborda um portfólio ficticio de um UI/UX designer trabalhando com elementos animados, containers, e outras interações*
+
+*Tela inicial*
+![](ex/E1.png)
+
+*Section 2 com slider de projetos*
+![](ex/E2.png)
+
+*Box de orçamento ao clicar botão Solicite seu orçamento*
+![](ex/orcamento.png)
+
+*Menu*
+<br>
+![](ex/menu.png)
+
+
+*botão de contato animado em Javascript*
+<br>
+![](ex/checkbox.png)
